@@ -168,7 +168,7 @@
 
 <table class="table" border="0" width="100%">
   <tr align="center">
-    <td><img width="300" src="https://github.com/belyakovko/belyakovko/blob/e3cc23c7c71e4e5c380f867704c30800b1a8fab0/assets/certificate_course_qae_ru_1.png" /></td>
-    <td><img width="300" src="https://github.com/belyakovko/belyakovko/blob/e3cc23c7c71e4e5c380f867704c30800b1a8fab0/assets/certificate_course_qae_ru_2.png" /></td>
+    <td><img width="300" src="https://github.com/romchel23rusqa/File1/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20QA%20Middle%20ru.png" /></td>
+    <td><img width="300" src="https://github.com/romchel23rusqa/File1/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20QA%20Middle.png" /></td>
   </tr>
 </table>
